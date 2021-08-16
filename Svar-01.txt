@@ -1,1 +1,43 @@
+1) Pde: Upload dit udvidede 'Hello World' program til dit GitHub repository.
+	- Vises æøå ÆØÅ korrekt når du kører dit program ?
+Ja, det vises korrekt
 
+2) Pde: Hvad er svaret på følgende kommando:
+		println( 3.3 == 1.1 + 1.1 + 1.1 );
+	- Kan du forklare resultatet ?
+Svaret er falsk. Grunden til at computeren tror at 1.1 + 1.1 + 1.1 ikke er lig med 3.3 er på grund af noget som hedder floating point error og er en fejl som opstår når computeren arbejder med decimaler.
+Processing mener at svaret er: 3.3000002
+
+3) Java: Upload dit 'Tjek' program til dit GitHub repository.
+	- Hvad mener du er årsagen til at 
+		println( 0.3 == 0.1 + 0.1 + 0.1 );
+          giver svaret false ?
+Svaret er lidt det samme som med processing. Der sker igen en floating point error java mener dog at svaret er 0.30000000000000004. Og det er på grund af at Processing bruger 32 bit og java bruger 64 bit
+
+Dine svar til følgende opgaver skal indsættes i en fil: Svar-01.txt
+og denne fil skal uploades til GitHub repository.
+
+4) Angiv seks 'CMD prompt' kommandoer du synes er vigtige,
+   med en beskrivelse af hvad de gør.
+   
+   CD - Change directory bruges til at ændre hvilken mappe som du er i og kan udføre kommandoer ud fra
+   MKDIR - Make directory bruges til at lave en ny mappe i den mappe som du er i
+   DIR - Bruges til at vise de mapper som er i den mappe du er i
+   COPY - Bruges til at kopiere filer
+   KILL - Bruges til at slukke for processer som windows kører
+   MV - Bruges til at flytte filer rundt
+
+5) I noten 'Hukommelse og glemsel' kan du se en graf.
+   Antag du har modtaget ny viden. Hvad kan 'du' forvente at kunne huske efter 2 dage er passeret ?
+   
+   Efter 2 dage vil man huske 25%
+
+6) I noten 'Derfor dumper computere til matematik' omtales en episode under Golf krigen.
+   Hvor mange amerikanske soldater mistede livet under angrebet ?
+   
+   28
+   
+   Ingeniøren valgte tallet 0.1 som sekund-tik. 
+   Kan du angive et tal ingeniøren istedet skulle have valgt ? 
+   
+   Han burde have valgt 1/16 da det er nemmere at representere i det binære talsystem.
