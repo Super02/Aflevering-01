@@ -1,5 +1,8 @@
 # Afleveringsopgave 01
 --------------------
+
+##Svar til opgaven er i Svar-01.txt
+
 Husk at du skal indsættes URL adressen på dit GitHub repository !!!
 Jeg skal have adgang til at se indholdet i dit repository
 - mit GitHub navn er: jrtecdk
