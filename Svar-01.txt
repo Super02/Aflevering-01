@@ -24,10 +24,10 @@ og denne fil skal uploades til GitHub repository.
    MKDIR - Make directory bruges til at lave en ny mappe i den mappe som du er i
    DIR - Bruges til at vise de mapper som er i den mappe du er i
    COPY - Bruges til at kopiere filer
-   KILL - Bruges til at slukke for processer som windows kører
-   MV - Bruges til at flytte filer rundt
+   DEL - Bruges til at fjerne filer.
+   MOVE - Bruges til at flytte filer rundt
 
-5) I noten 'Hukommelse og glemsel' kan du se en graf.
+5) I noten 'Hukommelse og glemsel' kan du se en graf.KILL
    Antag du har modtaget ny viden. Hvad kan 'du' forvente at kunne huske efter 2 dage er passeret ?
    
    Efter 2 dage vil man huske 25%
